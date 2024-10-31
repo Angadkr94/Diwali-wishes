@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, useParams } from 'react-router-dom';
 
 
+
 // Import your images
 import defaultImage from './images/Diwali6.jpeg';
 import anotherImage from './images/Diwali8.jpeg';
